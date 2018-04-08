@@ -1,2 +1,2 @@
-An application to store notes in Python
-It is a work-in-progess. Unusable as of now.
+An application to store notes in Python.
+It is unusable as of now.
